@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Website - Home</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="index.html".Home</a></li>
+<li><a href="signin.hyml">Sign In</a></li>
+<li><a href="about.html">About</a></li>
+<ul>
+</nav>
+</header>
+
+<main>
+<h1>Welcome to the news website</h1>
+<section>
+<h2>Latest News</h2>
+<p>Stay up to date with the latest news from around the world.</p>
+
+<article>
+<h3>Headline 1</h3>
+<p>This is a summary of the first news article...</p>
+< a href="#">Read more</a>
+</article>
+<article>
+<h3>Headline 2</h3>
+<p>This is a summary of the second news article...</p>
+<a href="#">Read more</a>
+</article>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2024 News Website. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
